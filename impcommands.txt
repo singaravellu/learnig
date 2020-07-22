@@ -1,0 +1,8 @@
+
+to clone a specific branch 
+git clone --single-branch --branch release-B https://github.com/singaravellu/learning.git
+
+to remove a specific  files from staging area
+
+git restore --staged impcommands.txt 
+
