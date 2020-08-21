@@ -4,5 +4,7 @@ git clone --single-branch --branch release-B https://github.com/singaravellu/lea
 
 to remove a specific  files from staging area
 
-git restore --staged impcommands.txt 
+git restore --staged impcommands.txt
+
+git diff HEAD~1 --name-only
 
