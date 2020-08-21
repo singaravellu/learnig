@@ -7,4 +7,4 @@ to remove a specific  files from staging area
 git restore --staged impcommands.txt
 
 git diff HEAD~1 --name-only
-
+https://blog.container-solutions.com/tagging-docker-images-the-right-way
