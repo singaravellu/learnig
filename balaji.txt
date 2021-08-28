@@ -1,0 +1,136 @@
+
+DevOps
+
+1)application automation(deployments,daytodayactivies automation,clean-up-actives(branches,artifates(dockerimages)(jfrog),buildartifactes),linux,patching(nonprod(d(10),q(testing)(15),p(uat),z(devops)),I/prod(staging(preprod),prod)),),migration(openshift-->rancher))
+2)infra automation
+jenkins
+ansible 
+terrafrom
+python
+
+jenkins(CI)/gitlab
+Deployment
+docker
+kubernetes
+k8's
+8-->phases
+
+ConfigurationManagement
+puppet
+ansible
+chef
+
+branches
+master(stable)
+release/2.17
+release/2.18
+
+develop/2.18
+
+
+java
+-->
+
+linux 
+basic shell scripting/powershell
+python
+bitbucket
+
+git-- working tree,staging,local commit
+  pull push clone merge cherrypick stash config  prehooks
+  fetch 
+  bare repositories
+  approvals 
+  branch rules 
+  
+svn
+maven(pom.xml)/gradle(build.xml)-->applicationbuild 
+----------------2014-----------------------------
+Jenkins (CI) -->pluging 
+docker
+-------------------->2016-17<------------------
+k'8 (CD)
+
+cloud
+-------
+pcf
+
+
+legacy/digital
+
+daytodayactivies:-team(4)
+mails:- sprint 1 (2weeks)
+1) dev(d1,d2,d3) code dev 
+/qa/p
+2)d2 --> q2
+sprint 
+1)branch
+2)db syncup  (models xml)
+3)code sycup
+
+
+nonprod-->cicd
+prod
+
+jenkins file weebhooks
+cicd
+jenkins file.yaml
+gloabal var
+env specific variables
+-env
+d2-l
+
+
+z-l
+-api
+-nopods
+-ports
+
+d1-L
+
+q-legacy
+p-l
+
+
+**----------------------------------------**
+
+1)containerise your java application 
+
+docker cmds
+docker containers
+app container
+db container
+docker file creation
+docker image 
+docker volumes mounts
+docker n/w   
+docker compose
+docker portforwording
+
+
+jenkins installation
+backup
+free
+multi
+pipe
+jenkins (CI) ->8080 plugin 
+jenkinsfile
+groovy
+declarative/scripted
+usermanagement
+master 
+slave
+jenkins home dir
+
+gitlab(cicd)
+
+github workflows
+
+
+
+k'8
+
+master
+slave
+
+
